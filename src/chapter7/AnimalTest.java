@@ -20,7 +20,7 @@ public class AnimalTest {
 		
 		if(human instanceof Rabbit) {
 			Rabbit humanWalking = (Rabbit)human;
-		} //instanceof´Â true³ª false¸¦ ¹ÝÈ¯ÇÏ±â ¶§¹®¿¡ ¾Æ¹«°Íµµ Ãâ·ÂµÇÁö ¾ÊÀ½. 
+		} //instanceofï¿½ï¿½ trueï¿½ï¿½ falseï¿½ï¿½ ï¿½ï¿½È¯ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ¹ï¿½ï¿½Íµï¿½ ï¿½ï¿½Âµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. 
 	
 		if(human instanceof Human) {
 			Human humanWalking = (Human)human;
